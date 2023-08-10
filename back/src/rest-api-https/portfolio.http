@@ -1,0 +1,15 @@
+####
+GET http://localhost:3001/api/portfolio/
+
+###
+POST http://localhost:3001/api/portfolio/create
+Content-Type: application/json
+Authorization: 
+
+{
+
+}
+
+####
+POST http://localhost:3001/api/portfolio/addLike/ID
+

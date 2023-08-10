@@ -1,0 +1,46 @@
+.fs_color1 {
+  color: #ffffff !important;
+}
+
+.fs_color2 {
+  color: rgba(41, 41, 41, 0.8) !important;
+}
+
+.fs_color3 {
+  color: rgba(41, 98, 255, 0.8) !important;
+}
+
+.fs_color4 {
+  color: rgba(89, 0, 255, 0.8) !important;
+}
+
+.fs_color5 {
+  color: rgba(253, 123, 35, 0.8) !important;
+}
+
+.fs_color6 {
+  color: rgba(128, 0, 128, 0.8) !important;
+}
+
+.fs_color7 {
+  color: rgba(255, 166, 34, 0.8) !important;
+}
+
+.fs_color8 {
+  color: rgba(0, 119, 255, 0.8) !important;
+}
+
+.fs_color9 {
+  color: rgba(255, 251, 0, 0.8) !important;
+}
+
+/* Custom Mobile CSS */
+
+/* Styles for all screen sizes (default styles) */
+
+/* Media Query for Mobile Devices (up to 767 pixels) */
+@media screen and (max-width: 767px) {
+  .fs_color1 {
+    color: rgb(34, 218, 157);
+  }
+}
